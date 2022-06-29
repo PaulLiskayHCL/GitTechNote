@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editableResource createdTimestamp="1656513411432"
+    createdUser="PAUL.LISKAY" id="26899053:181afe2bc55:-7ec1"
+    selfDescribing="www.hcl.com - http localhost" type="http_transport"
+    updatedTimestamp="1656513411432" updatedUser="PAUL.LISKAY" version="1.0">
+    <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
+    <resourceConfig transportName="www.hcl.com" transportTemplateName="HTTP"/>
+</editableResource>

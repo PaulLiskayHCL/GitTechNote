@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editableResource createdTimestamp="1656513282088"
+    createdUser="PAUL.LISKAY" id="26899053:181afe2bc55:-7f67"
+    type="environment_resource" updatedTimestamp="1656513411444"
+    updatedUser="PAUL.LISKAY" version="1.0">
+    <loggingConfiguration debug="false" resultWriterLoggingLevel="FULL" writeStubEventsToDB="false"/>
+    <resourceConfig isOverridingSecretsNamespace="false" overridingSecretsNamespace="">
+        <evbindings>
+            <evbinding evLogicalItemId="26899053:181afe2bc55:-7ec2" evPhysicalItemId="26899053:181afe2bc55:-7ec1"/>
+        </evbindings>
+    </resourceConfig>
+</editableResource>
